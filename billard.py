@@ -1,8 +1,3 @@
-                                                #BILLARD AMERICAIN : Partie parfaite#
-
-
-
-
 from tkinter import *
 from math import *
 from PIL import Image, ImageTk
