@@ -1,6 +1,5 @@
 from tkinter import *
 from math import *
-from PIL import Image, ImageTk
 from random import randint
 import time
 
